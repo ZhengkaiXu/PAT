@@ -1,0 +1,3 @@
+/Users/xuzhengkai/Desktop/study/PAT/BasicLevel /cmake-build-debug/CMakeFiles/BasicLevel_.dir
+/Users/xuzhengkai/Desktop/study/PAT/BasicLevel /cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/xuzhengkai/Desktop/study/PAT/BasicLevel /cmake-build-debug/CMakeFiles/rebuild_cache.dir
