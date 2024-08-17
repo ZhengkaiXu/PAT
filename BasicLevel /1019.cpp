@@ -20,5 +20,6 @@ int main() {
         s.insert(0, 4 - s.length(), '0');
         cout << a << " - " << b << " = " << s << endl;
     } while (s != "6174" && s != "0000");
+
     return 0;
 }
