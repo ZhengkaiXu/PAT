@@ -3,4 +3,5 @@ project(BasicLevel_)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(BasicLevel_ main.cpp)
+add_executable(BasicLevel_ main.cpp
+        1039.cpp)
